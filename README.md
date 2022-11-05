@@ -8,3 +8,10 @@ Bluetooth is a standardized technology for communication between devices. The co
 
 ## Resources
 
+### Reading
+
+Books and PDF's about Bluetooth.
+
+| Title                           | Published  | Pages | Link |
+| :---                            | :---       | ---:  | :--- |
+| The Bluetooth Low Energy Primer | 2022-06-06 | 87    | [bluetooth.com](https://www.bluetooth.com/bluetooth-resources/the-bluetooth-low-energy-primer/) |
